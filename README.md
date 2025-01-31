@@ -10,6 +10,8 @@
 - 😀 Status: Diverse. <br>
 
 <h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. Thank you! ❤️</h3>
+<h3 align="center">If you want to see more of me and my projects feel free to checkout and show some support to my currently more active GitHub profile <a href="https://github.com/BADimov21">BADimov21</a>!</h3>
+
 <br>
 
 <details>
