@@ -10,8 +10,6 @@
 - 😀 Status: Diverse. <br>
 
 <h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. Thank you! ❤️</h3>
-<h3 align="center">If you want to see more of me and my projects feel free to checkout and show some support to my currently more active GitHub profile <a href="https://github.com/BADimov21">BADimov21</a>!</h3>
-
 <br>
 
 <details>
@@ -21,7 +19,8 @@
        <a href="https://www.credly.com/badges/b47a2c8c-5a81-42aa-a3e7-0adeeb2fd823" > <img src="https://github.com/user-attachments/assets/327acebd-d921-418c-870a-d926bf8c9f52" height="200" weight="200" alt="Java IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/7ef290f1-5ec9-4fde-a9c5-7c0959e140f6" > <img src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" height="200" weight="200" alt="JavaScript IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/878a8d30-198d-417e-9105-92a4849f9509" > <img src="https://images.credly.com/size/680x680/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" height="200" weight="200" alt="HTML5 & CSS3 IT Specialist Certificate"> </a>
-       <a href="https://www.credly.com/badges/096cb08a-c727-4785-87e8-004f5c431665" > <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height="200" weight="200" alt="IT Essentials Specialist Certificate"> </a>
+       <a href="https://www.credly.com/badges/95f3bbeb-7917-4c02-8a73-76e2e68420d1" > <img src="https://images.credly.com/size/680x680/images/f1f94d14-e573-4013-9386-62d417d5a3fb/image.png" height="200" weight="200" alt="C++ Essentials 2 Certificate"> </a>
+       <a href="https://www.credly.com/badges/096cb08a-c727-4785-87e8-004f5c431665" > <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height="200" weight="200" alt="IT Essentials Certificate"> </a>
        <a href="https://www.credly.com/badges/6ceb74f6-525f-45f3-8f34-96f41033551b" > <img src="https://images.credly.com/size/680x680/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" height="200" weight="200" alt="Network Defense Certificate"> </a>
        <a href="https://www.credly.com/badges/9efa6024-16cf-41ac-a526-2ad0dbd8542f" > <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="200" weight="200" alt="Introduction to Cybersecurity Certificate"> </a>
        <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200" alt="MS Word 2016 Specialist Certificate"> </a>
@@ -36,6 +35,7 @@
        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="75" weight="75" alt="C"> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" height="75" weight="75" alt="C#"> </a>
        <a href="https://dotnet.microsoft.com/en-us/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="75" weight="75" alt=".NET">
+       <a href="https://www.python.org" ><img src="https://github.com/user-attachments/assets/452a6dab-97e0-442b-aa9b-6383d0c1f31b" height="75" weight="75" alt="Python">
        <a href="https://en.wikipedia.org/wiki/JavaScript" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/210px-Unofficial_JavaScript_logo_2.svg.png" height="75" weight="75" alt="JavaScript">
        <a href="https://www.typescriptlang.org/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="75" weight="75" alt="TypeScript">
        <a href="https://reactnative.dev/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="75" weight="75" alt="React Native">
@@ -73,7 +73,7 @@
        <summary><h3>📈 GitHub Stats:</h3></summary>
        <p align="center">
        <img src="https://github-readme-stats.vercel.app/api?username=BADimov21&count_private=true&show_icons=true&theme=radical"> <br>
-       <img src="https://streak-stats.demolab.com/?user=BADimov21&theme=radical"> <br>
+       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BADimov21&theme=radical"> <br>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical">
        </p>
  </details>
