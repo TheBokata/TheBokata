@@ -10,7 +10,7 @@
 
 <h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. You can also visit my LinkedIn profile, which is linked down below to see my skills and experience. Thank you! ❤️</h3>
 <br>
-<h3 align="center">You can also checkout <a href="https://github.com/BADimov21">active GitHub profile</a>.</h3>
+<h3 align="center">You can also checkout my <a href="https://github.com/BADimov21">active GitHub profile</a>.</h3>
 
 <details>
        <summary><h3>💼Badges:</h3></summary>
